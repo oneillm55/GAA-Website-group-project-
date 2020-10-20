@@ -1,0 +1,85 @@
+body {
+    background-color: #005E82;
+	color:white;
+	font-family: verdana, arial,helvetica, sans-serif; 
+}
+H1{
+color: white;   FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 20pt; text-shadow: 3px 1px 1px black;
+}
+H2{
+COLOR:white ; FONT-FAMILY: verdana, helvetica,  sans-serif; FONT-SIZE: 14pt; text-shadow: 3px 1px 1px black;
+}
+H3{
+COLOR:white; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 10pt; 
+}
+H4{
+	COLOR:white;
+	text-shadow: 3px 1px 2px black;
+	FONT-SIZE: 12pt; 
+	FONT-FAMILY: lucida-sans,
+	
+}
+
+ul{
+	font-weight:bold
+ 
+}
+a {
+color: #999999;
+text-shadow: 1px 1px 1px black;
+}
+
+
+.hurlingFact{
+	background-color:orange;
+	
+	
+	font-family: Impact;
+
+}
+
+
+
+table{
+   border-collapse: collapse;
+   text-align: left;
+    padding: 12px;
+	FONT-FAMILY: verdana, helvetica,  sans-serif;
+	COLOR:black;
+	background-color:white
+
+}
+
+,table.allStars{
+	color:black;
+	
+}
+
+tr:hover{
+	background-color: #e6e6e6
+
+}
+
+td {
+border: solid 1px black;
+
+} 
+
+a:hover {
+    color: #33ccff;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+iframes{
+margin:0px
+}
+	
+
+
+
+
+
+
+
+
